@@ -1,0 +1,8 @@
+elevenlabs==0.2.15
+langchain
+pinecone_client==2.2.1
+python-dotenv==0.21.1
+streamlit==1.8.0
+altair==4.1.0
+click==8.0.1
+openai
